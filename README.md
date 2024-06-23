@@ -28,9 +28,9 @@ Ivrig att ge mig in fältet, och fortsätta nära det här intresset. :)
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 ### Operating system
 <div>
-    <img src="https://img.shields.io/badge/-Windows-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-LINUX-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Active%20Directory-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LINUX-1679A7?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Active%20Directory-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
  
 </div>
 
@@ -38,7 +38,7 @@ Ivrig att ge mig in fältet, och fortsätta nära det här intresset. :)
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-tcpdump-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-1679A7?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Firewall-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
@@ -46,7 +46,7 @@ Ivrig att ge mig in fältet, och fortsätta nära det här intresset. :)
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-bahnhof%20SAFE-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-bahnhof%20SAFE-1679A7?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### SIEM
@@ -56,7 +56,12 @@ Ivrig att ge mig in fältet, och fortsätta nära det här intresset. :)
 
 ### Vulnerability analysis
 <div>
-    <img src="https://img.shields.io/badge/-nmap-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-nmap-000000?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Penetration testing
+<div>
+    <img src="https://img.shields.io/badge/-Metasploit-EF3B2D?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Certifications
