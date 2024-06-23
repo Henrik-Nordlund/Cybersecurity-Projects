@@ -1,4 +1,4 @@
-# Hej, jag heter Henrik
+# Hej, jag heter Henrik. Välkommen till min sida cybersäkerhet.
 <a href="https://www.linkedin.com/in/henrik-nordlund"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Jag är en teknikintresserad filur som har snöat in mig på cyberssäkerhet. Utbildad ingenjör, mestadels med en bakgrund inom miljöteknik och även alla delar av marknadsföring och i synnerhet de tekniska delarna.
@@ -26,6 +26,9 @@ Ivrig att ge mig in fältet på allvar, och fortsätta nära det här intresset.
 | Vulnerability analysis                  | <a href = "https://github.com/Henrik-Nordlund/Vulnerability-Scanning-with-Nmap---Network-Scanning">Sårbarhetsanalyser med Nmap</a> |
 | Scripting and Automation for Threat Mitigation | Python automation|
 | IT Forensics | <a href = "https://github.com/Henrik-Nordlund/Managing-file-permissions-with-Linux">Hanterade filbehörigheter med Linux</a>|
+| Threat Hunting | OSINT|
+| Endpointskydd (EDR) | <a href = "https://github.com/Henrik-Nordlund/Configuring-and-updating-Microsoft-defender">Konfigurerade and uppdaterade Microsoft Windows - Defender</a>|
+| Brandväggar (NGFW) | <a href = "https://github.com/Henrik-Nordlund/Enabling-and-configuring-Microsoft-Firewall">Driftsatte and konfigurerade Microsoft Firewall</a>|
 
 ## Tools
 
