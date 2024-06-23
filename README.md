@@ -79,7 +79,7 @@ Ivrig att ge mig in fältet på allvar, och fortsätta nära det här intresset.
 
 ## Projects
 - 	<a href = "https://github.com/Henrik-Nordlund/Scripting-python">Scripting Python (flera projekt)</a>
-- 	<a href = "https://github.com/Henrik-Nordlund/Analyze-a-vulnerable-system-for-a-small-ecommerce-business">Analysera ett sårbart system för en mindre e-handelsaktör"</a>
+- 	<a href = "https://github.com/Henrik-Nordlund/Analyze-a-vulnerable-system-for-a-small-ecommerce-business">Analysera ett sårbart system för en mindre e-handelsaktör</a>
 - 	<a href = "https://github.com/Henrik-Nordlund/Incident-handling">Incidenthanteringsrapporter</a>
 - 	<a href = "https://github.com/Henrik-Nordlund/Managing-file-permissions-with-Linux">Hanterade filbehörigheter med Linux</a>
 -	<a href = "https://github.com/Henrik-Nordlund/Apply-filters-to-SQL-queries">Applicerade filters to SQL queries</a>
