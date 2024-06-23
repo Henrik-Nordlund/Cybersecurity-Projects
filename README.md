@@ -1,4 +1,4 @@
-# Hej, jag heter Henrik. Välkommen till min sida cybersäkerhet.
+# Hej, jag heter Henrik. Välkommen till min sida för cybersäkerhet.
 <a href="https://www.linkedin.com/in/henrik-nordlund"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Jag är en teknikintresserad filur som har snöat in mig på cyberssäkerhet. Utbildad ingenjör, mestadels med en bakgrund inom miljöteknik och även alla delar av marknadsföring och i synnerhet de tekniska delarna.
