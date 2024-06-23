@@ -17,14 +17,15 @@ Ivrig att ge mig in fältet på allvar, och fortsätta nära det här intresset.
 
 ## Skills
 
-| Skill                                         | Associated Project         |
+| Skill                                         | Associated Project or tools         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Log Analysis          | tcpdump, Wireshark, python automation|
+| Network Traffic Monitoring and Attack Detection | Suricata, Wireshark, tcpdump|
+| Database analysis        | SQL, Excel|
+| Incident Response Planning and Execution      | <a href = "https://github.com/Henrik-Nordlund/Incident-handling">Incidenthantering</a>|
+| Vulnerability analysis                  | <a href = "https://github.com/Henrik-Nordlund/Vulnerability-Scanning-with-Nmap---Network-Scanning">Sårbarhetsanalyser med Nmap</a> |
+| Scripting and Automation for Threat Mitigation | Python automation|
+| IT Forensics | <a href = "https://github.com/Henrik-Nordlund/Managing-file-permissions-with-Linux">Hanterade filbehörigheter med Linux</a>|
 
 ## Tools
 
