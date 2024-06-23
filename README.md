@@ -79,7 +79,7 @@ Ivrig att ge mig in fältet, och fortsätta nära det här intresset. :)
 -	<a href = "https://github.com/Henrik-Nordlund/Configuring-and-updating-Microsoft-defender">Konfigurerade and uppdaterade Microsoft Windows - Defender</a>
 -	<a href = "https://github.com/Henrik-Nordlund/Enabling-and-configuring-Microsoft-Firewall">Driftsatte and konfigurerade Microsoft Firewall</a>
 -	Använde tcpdump för att fånga och analysera TCP trafik
--	Installerade Wireshark på Ubuntu
--	Använde Wireshark för att analysera HTTP/S and RDP trafik
--	Sårbarhetsanalyser med Nmap 
+-	<a href = "https://github.com/Henrik-Nordlund/Capturing-packets-with-Wireshark">Installerade Wireshark på Ubuntu</a>
+-	<a href = "https://github.com/Henrik-Nordlund/Basic-Network-Security-Analysis-with-Wireshark">Använde Wireshark för att analysera HTTP/S and RDP trafik</a>
+-	<a href = "https://github.com/Henrik-Nordlund/Vulnerability-Scanning-with-Nmap---Network-Scanning">Sårbarhetsanalyser med Nmap</a> 
 -	Använde en exploit med Metasploit för att få tillgång till ett sårbart system och dokumenterade det i en penetrationstestrapport
