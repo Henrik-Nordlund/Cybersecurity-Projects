@@ -1,16 +1,19 @@
-# Välkommen till Henrik's sida
+# Hej, jag heter Henrik
 <a href="https://www.linkedin.com/in/henrik-nordlund"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Jag är en teknikintresserad filur som har snöat in mig på cyberssäkerhet. Utbildad ingenjör, mestadels med en bakgrund inom miljöteknik och även alla delar av marknadsföring och i synnerhet de tekniska delarna.
-Men ni kan tro att det bidrog till ett intresse för social ingenjörskonst, och säkerhetsutbildningar, det var intressant för mig. Och naturligtvis att hjälpa människor, det har alltid varit en drivkraft ända sedan jag var en elevassistent.
+Men ni kan tro att det bidrog till ett intresse för social ingenjörskonst, och säkerhetsutbildningar, det var intressant för mig. Och naturligtvis att hjälpa och "bygga upp" människor, det har alltid varit en drivkraft ända sedan jag var en elevassistent (vuxenutbildning).
 
 Både att jobba som ingenjör, och att jobba för olika startup företag, lärde mig att första prioritet alltid är att skapa en funktionell lösning på problemet ASAP med det du vet och kan just nu – perfektion kommer senare. Man måste inte veta *allt* från början, i IT branschen så lär vi oss allteftersom och blir allt vassare.
+
+Länkar till min <a href = "https://github.com/Henrik-Nordlund/Professional-statement-in-both-Swedish-and-English">professional statement</a> också.
 
 
 
 ## Mål
-Jag följer mitt råd som jag har fått av min mentor att vara bred, vilket inte är svårt eftersom jag har ett intresse för allt.
-Ivrig att ge mig in fältet, och fortsätta nära det här intresset. :)
+Jag följer mitt råd som jag har fått av min mentor att vara bred, vilket inte är svårt eftersom jag har ett intresse för allt.<br>
+Lite mer intresserad av den defensiva sidan dock.<br>
+Ivrig att ge mig in fältet på allvar, och fortsätta nära det här intresset. :)
 
 ## Skills
 
