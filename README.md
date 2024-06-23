@@ -1,16 +1,17 @@
-# Hello, I'm CHANGEME
+# Välkommen till Henrik's sida
 <a href="https://www.linkedin.com/in/henrik-nordlund"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Jag är en teknikintresserad filur som har snöat in mig på cyberssäkerhet. Utbildad ingenjör, mestadels med en bakgrund inom miljöteknik och även alla delar av marknadsföring och i synnerhet de tekniska.
-Men ni kan tro att det bidrog till ett intresse för social ingenjörskonst, och säkerhetsutbildningar, det var intressant för mig.
+Men ni kan tro att det bidrog till ett intresse för social ingenjörskonst, och säkerhetsutbildningar, det var intressant för mig. Och naturligtvis att hjälpa människor, det har alltid varit en drivkraft ända sedan jag var en elevassistent.
 
 Både att jobba som ingenjör, och att jobba för olika startup företag, lärde mig att första prioritet alltid är att skapa en funktionell lösning på problemet ASAP med det du vet och kan just nu – perfektion kommer senare. Man måste inte veta *allt* från början, i IT branschen så lär vi oss allteftersom och blir allt vassare.
 
 
 
-## Objective
+## Mål
 [Provide Objective - Remove this afterwards]]
 
+Mitt mål Renodlad systemutveckling, bygga stora appar, fullstack - jag känner till .NET - var aldrig sexigt för mig. Senare har jag gjort automat 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
