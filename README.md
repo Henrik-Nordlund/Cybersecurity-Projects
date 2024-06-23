@@ -1,9 +1,12 @@
 # Hello, I'm CHANGEME
 <a href="https://www.linkedin.com/in/henrik-nordlund"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+Jag är en teknikintresserad filur som har snöat in mig på cyberssäkerhet. Utbildad ingenjör, mestadels med en bakgrund inom miljöteknik och även alla delar av marknadsföring och i synnerhet de tekniska.
+Men ni kan tro att det bidrog till ett intresse för social ingenjörskonst, och säkerhetsutbildningar, det var intressant för mig.
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Både att jobba som ingenjör, och att jobba för olika startup företag, lärde mig att första prioritet alltid är att skapa en funktionell lösning på problemet ASAP med det du vet och kan just nu – perfektion kommer senare. Man måste inte veta *allt* från början, i IT branschen så lär vi oss allteftersom och blir allt vassare.
+
+
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
@@ -38,6 +41,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Firewall-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ### Endpoint
