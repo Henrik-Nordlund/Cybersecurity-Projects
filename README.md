@@ -75,7 +75,7 @@ Ivrig att ge mig in fältet, och fortsätta nära det här intresset. :)
 - 	Analysera ett sårbart system för en mindre e-handelsaktör
 - 	Incidenthanteringsrapporter
 - 	Hanterade filbehörigheter med Linux
--	Applicerade filters to SQL queries
+-	<a href = "https://github.com/Henrik-Nordlund/Apply-filters-to-SQL-queries">Applicerade filters to SQL queries</a>
 -	Konfigurerade and uppdaterade Microsoft Windows - Defender
 -	Driftsatte and konfigurerade Microsoft Firewall
 -	Använde tcpdump för att fånga och analysera TCP trafik
