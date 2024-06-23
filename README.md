@@ -79,5 +79,3 @@ My journey in computer science has led me to develop a passion for cybersecurity
 -	Använde Wireshark för att analysera HTTP/S and RDP trafik
 -	Sårbarhetsanalyser med Nmap 
 -	Använde en exploit med Metasploit för att få tillgång till ett sårbart system och dokumenterade det i en penetrationstestrapport
-
-- SOC Automation Project
