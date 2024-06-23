@@ -17,7 +17,7 @@ Ivrig att ge mig in fältet på allvar, och fortsätta nära det här intresset.
 
 ## Skills
 
-| Skill                                         | Associated Project or tools         |
+| (Some) Skills                                         | Associated Project or Tools         |
 |-----------------------------------------------|----------------------------|
 | Log Analysis          | tcpdump, Wireshark, python automation|
 | Network Traffic Monitoring and Attack Detection | Suricata, Wireshark, tcpdump|
