@@ -24,6 +24,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+### Operating system
+<div>
+    <img src="https://img.shields.io/badge/-Windows-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LINUX-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Active%20Directory-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+ 
+</div>
+
 
 ### Network
 <div>
@@ -35,12 +43,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-bahnhof%20SAFE-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+### Vulnerability analysis
+<div>
+    <img src="https://img.shields.io/badge/-nmap-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ## Certifications
@@ -54,5 +67,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
+- 	Scripting Python (flera projekt) 
+- 	Analysera ett sårbart system för en mindre e-handelsaktör
+- 	Incidenthanteringsrapporter
+- 	Hanterade filbehörigheter med Linux
+-	Applicerade filters to SQL queries
+-	Konfigurerade and uppdaterade Microsoft Windows - Defender
+-	Driftsatte and konfigurerade Microsoft Firewall
+-	Använde tcpdump för att fånga och analysera TCP trafik
+-	Installerade Wireshark på Ubuntu
+-	Använde Wireshark för att analysera HTTP/S and RDP trafik
+-	Sårbarhetsanalyser med Nmap 
+-	Använde en exploit med Metasploit för att få tillgång till ett sårbart system och dokumenterade det i en penetrationstestrapport
+
 - SOC Automation Project
