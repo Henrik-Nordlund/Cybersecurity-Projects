@@ -21,7 +21,7 @@ Ivrig att ge mig in fältet på allvar, och fortsätta nära det här intresset.
 |-----------------------------------------------|----------------------------|
 | Log Analysis          | tcpdump, Wireshark, python automation|
 | Network Traffic Monitoring and Attack Detection | Suricata, Wireshark, tcpdump|
-| Database analysis        | SQL, Excel|
+| Database analysis        | <a href = "https://github.com/Henrik-Nordlund/Apply-filters-to-SQL-queries">Applicerade filters to SQL queries</a>, Excel|
 | Incident Response Planning and Execution      | <a href = "https://github.com/Henrik-Nordlund/Incident-handling">Incidenthantering</a>|
 | Vulnerability analysis                  | <a href = "https://github.com/Henrik-Nordlund/Vulnerability-Scanning-with-Nmap---Network-Scanning">Sårbarhetsanalyser med Nmap</a> |
 | Scripting and Automation for Threat Mitigation | Python automation|
