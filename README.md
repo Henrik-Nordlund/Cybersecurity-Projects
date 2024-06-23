@@ -24,7 +24,7 @@ Ivrig att ge mig in fältet, och fortsätta nära det här intresset. :)
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 ### Operating system
 <div>
     <img src="https://img.shields.io/badge/-Windows-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
