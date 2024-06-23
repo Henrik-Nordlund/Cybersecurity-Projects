@@ -13,7 +13,6 @@ Jag följer mitt råd som jag har fått av min mentor att vara bred, vilket inte
 Ivrig att ge mig in fältet, och fortsätta nära det här intresset. :)
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
