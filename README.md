@@ -71,13 +71,13 @@ Ivrig att ge mig in fältet, och fortsätta nära det här intresset. :)
 </div>
 
 ## Projects
-- 	Scripting Python (flera projekt) 
-- 	Analysera ett sårbart system för en mindre e-handelsaktör
-- 	Incidenthanteringsrapporter
-- 	Hanterade filbehörigheter med Linux
+- 	<a href = "https://github.com/Henrik-Nordlund/Scripting-python">Scripting Python (flera projekt)</a>
+- 	<a href = "https://github.com/Henrik-Nordlund/Analyze-a-vulnerable-system-for-a-small-ecommerce-business">Analysera ett sårbart system för en mindre e-handelsaktör"</a>
+- 	<a href = "https://github.com/Henrik-Nordlund/Incident-handling">Incidenthanteringsrapporter</a>
+- 	<a href = "https://github.com/Henrik-Nordlund/Managing-file-permissions-with-Linux">Hanterade filbehörigheter med Linux</a>
 -	<a href = "https://github.com/Henrik-Nordlund/Apply-filters-to-SQL-queries">Applicerade filters to SQL queries</a>
--	Konfigurerade and uppdaterade Microsoft Windows - Defender
--	Driftsatte and konfigurerade Microsoft Firewall
+-	<a href = "https://github.com/Henrik-Nordlund/Configuring-and-updating-Microsoft-defender">Konfigurerade and uppdaterade Microsoft Windows - Defender</a>
+-	<a href = "https://github.com/Henrik-Nordlund/Enabling-and-configuring-Microsoft-Firewall">Driftsatte and konfigurerade Microsoft Firewall</a>
 -	Använde tcpdump för att fånga och analysera TCP trafik
 -	Installerade Wireshark på Ubuntu
 -	Använde Wireshark för att analysera HTTP/S and RDP trafik
