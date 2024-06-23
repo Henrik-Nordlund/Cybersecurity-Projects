@@ -9,12 +9,8 @@ Både att jobba som ingenjör, och att jobba för olika startup företag, lärde
 
 
 ## Mål
-[Provide Objective - Remove this afterwards]]
-
-Jag följer mitt råd som jag har fått av min mentor att vara bred, och 
-
-Renodlad systemutveckling, bygga stora appar, fullstack - jag känner till .NET - var aldrig sexigt för mig. Senare har jag gjort automat 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Jag följer mitt råd som jag har fått av min mentor att vara bred, vilket inte är svårt eftersom jag har ett intresse för allt.
+Ivrig att ge mig in fältet, och fortsätta nära det här intresset. :)
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
