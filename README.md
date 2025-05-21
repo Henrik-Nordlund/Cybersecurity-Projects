@@ -89,4 +89,4 @@ Ivrig att ge mig in fältet på allvar, och fortsätta nära det här intresset.
 -	<a href = "https://github.com/Henrik-Nordlund/Capturing-packets-with-Wireshark">Installerade Wireshark på Ubuntu</a>
 -	<a href = "https://github.com/Henrik-Nordlund/Basic-Network-Security-Analysis-with-Wireshark">Använde Wireshark för att analysera HTTP/S and RDP trafik</a>
 -	<a href = "https://github.com/Henrik-Nordlund/Vulnerability-Scanning-with-Nmap---Network-Scanning">Sårbarhetsanalyser med Nmap</a> 
--	Använde en exploit med Metasploit för att få tillgång till ett sårbart system och dokumenterade det i en penetrationstestrapport
+-	<a href = "https://github.com/Henrik-Nordlund/Vulnerability-Management-Program">Evaluating a vulnerability program: A GRC project</a>
