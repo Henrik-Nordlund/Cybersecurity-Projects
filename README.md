@@ -90,3 +90,4 @@ Ivrig att ge mig in fältet på allvar, och fortsätta nära det här intresset.
 -	<a href = "https://github.com/Henrik-Nordlund/Basic-Network-Security-Analysis-with-Wireshark">Använde Wireshark för att analysera HTTP/S and RDP trafik</a>
 -	<a href = "https://github.com/Henrik-Nordlund/Vulnerability-Scanning-with-Nmap---Network-Scanning">Sårbarhetsanalyser med Nmap</a> 
 -	<a href = "https://github.com/Henrik-Nordlund/Vulnerability-Management-Program">Evaluating a vulnerability program: A GRC project</a>
+-   <a href = "https://github.com/Henrik-Nordlund/Third-part-risky-management-TPRM">Evaluating a key vendor in a TPRM process: A GRC project</a>
