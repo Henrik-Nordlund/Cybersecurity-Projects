@@ -85,9 +85,9 @@ Ivrig att ge mig in fältet på allvar, och fortsätta nära det här intresset.
 -	<a href = "https://github.com/Henrik-Nordlund/Apply-filters-to-SQL-queries">Applicerade filters to SQL queries</a>
 -	<a href = "https://github.com/Henrik-Nordlund/Configuring-and-updating-Microsoft-defender">Konfigurerade and uppdaterade Microsoft Windows - Defender</a>
 -	<a href = "https://github.com/Henrik-Nordlund/Enabling-and-configuring-Microsoft-Firewall">Driftsatte and konfigurerade Microsoft Firewall</a>
--	Använde tcpdump för att fånga och analysera TCP trafik
 -	<a href = "https://github.com/Henrik-Nordlund/Capturing-packets-with-Wireshark">Installerade Wireshark på Ubuntu</a>
 -	<a href = "https://github.com/Henrik-Nordlund/Basic-Network-Security-Analysis-with-Wireshark">Använde Wireshark för att analysera HTTP/S and RDP trafik</a>
 -	<a href = "https://github.com/Henrik-Nordlund/Vulnerability-Scanning-with-Nmap---Network-Scanning">Sårbarhetsanalyser med Nmap</a> 
 -	<a href = "https://github.com/Henrik-Nordlund/Vulnerability-Management-Program">Evaluating a vulnerability program: A GRC project</a>
 -   <a href = "https://github.com/Henrik-Nordlund/Third-part-risk-management-TPRM-">Evaluating a key vendor in a TPRM process: A GRC project</a>
+-   <a href = "https://github.com/Henrik-Nordlund/Designing-a-comprehensive-Cyber-Security-Program-">Designing a comprehensive cybersecurity program: A GRC project</a>
