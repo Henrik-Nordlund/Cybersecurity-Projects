@@ -89,6 +89,10 @@ Ivrig att ge mig in i fältet på allvar – och fortsätta nära det här intre
 <div>
     <img src="https://img.shields.io/badge/-Metasploit-EF3B2D?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp Suite-EF3B2D?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-John the Ripper-EF3B2D?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hydra-EF3B2D?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GoBuster-EF3B2D?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQLMap-EF3B2D?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Digital Forensics
