@@ -45,28 +45,41 @@ Ivrig att ge mig in fältet på allvar, och fortsätta nära det här intresset.
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-1679A7?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Brim-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Firewall-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-bahnhof%20SAFE-1679A7?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ELK 101-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+</div>
+
+### Threat Intelligence
+<div>
+    <img src="https://img.shields.io/badge/-Yara-EF3B2D?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MISP-EF3B2D?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Vulnerability analysis
 <div>
-    <img src="https://img.shields.io/badge/-nmap-000000?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-nmap-006400?&style=for-the-badge&logoColor=white" />
 </div>
 
 ### Penetration testing
 <div>
     <img src="https://img.shields.io/badge/-Metasploit-EF3B2D?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp Suite-EF3B2D?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Certifications
@@ -74,7 +87,7 @@ Ivrig att ge mig in fältet på allvar, och fortsätta nära det här intresset.
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google Cybersecurity Certificate-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-GRC Mastery-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-GRC Mastery-000000?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
@@ -89,5 +102,5 @@ Ivrig att ge mig in fältet på allvar, och fortsätta nära det här intresset.
 -	<a href = "https://github.com/Henrik-Nordlund/Basic-Network-Security-Analysis-with-Wireshark">Använde Wireshark för att analysera HTTP/S and RDP trafik</a>
 -	<a href = "https://github.com/Henrik-Nordlund/Vulnerability-Scanning-with-Nmap---Network-Scanning">Sårbarhetsanalyser med Nmap</a> 
 -	<a href = "https://github.com/Henrik-Nordlund/Vulnerability-Management-Program">Evaluating a vulnerability program: A GRC project</a>
--   <a href = "https://github.com/Henrik-Nordlund/Third-part-risk-management-TPRM-">Evaluating a key vendor in a TPRM process: A GRC project</a>
-#-   <a href = "https://github.com/Henrik-Nordlund/Designing-a-comprehensive-Cyber-Security-Program-">Designing a comprehensive cybersecurity program: A GRC project</a>
+- <a href = "https://github.com/Henrik-Nordlund/Third-part-risk-management-TPRM-">Evaluating a key vendor in a TPRM process: A GRC project</a>
+- <a href = "https://github.com/Henrik-Nordlund/Designing-a-comprehensive-Cyber-Security-Program-">Designing a comprehensive cybersecurity program: A GRC project</a>
