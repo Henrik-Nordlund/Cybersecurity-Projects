@@ -1,14 +1,15 @@
 # Hej, jag heter Henrik. Välkommen till min sida för cybersäkerhet.
 <a href="https://www.linkedin.com/in/henrik-nordlund"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-👋Hej och välkommen!
+👋**Hej och välkommen!**
+
 Jag är en teknikintresserad filur som har fastnat för cybersäkerhet. Efter en del överväganden har jag valt att närma mig fältet som en generalist – med fokus på Blue Team, GRC och molnmiljöer (särskilt Azure) – men hjärtat klappar ändå lite extra för de tekniska momenten.
 
 Det har hittills varit särskilt roligt att jobba med sådana saker som logganalys, automatisering och liknande på olika hackningsplattformar. Kan vara riktigt utmanande ibland!
 
 I botten är jag en ingenjör, och har arbetat både med miljöteknik och IT. Dessutom har jag arbetat med digital marknadsföring, så det finns en särskild plats i mitt hjärta för **social engineering**. Social engineering handlar för er som eventuellt inte känner till det, om att lura och manipulera människor för att få tag på information eller tillgång till något man egentligen inte borde ha åtkomst till. Det är ofta det första steget i en större cyberattack, därför att slipad angripare vet att den svagaste länken i säkerhetskedjan ofta är människor. Folk i allmänhet drivs av nyfikenhet, girighet, ambition, ego, fåfänga etcetera – och det är lätt att spela på känslor som stress/rädsla eller en vilja att hjälpa. De flesta känner till klassika bluffmejl (phishing), med länkar som de inte borde klicka på, från en avsändare som inte är vad de ser ut att vara.
 
-Länkar till min <a href = "https://github.com/Henrik-Nordlund/Professional-statement-in-both-Swedish-and-English">professional statement</a>.
+Länkar till mitt <a href = "https://github.com/Henrik-Nordlund/Professional-statement-in-both-Swedish-and-English">professional statement</a>.
 
 Här på sidan finns ett urval av mina projekt, experiment och exempel. Välkommen att klicka runt!
 
