@@ -41,6 +41,7 @@ Ivrig att ge mig in i fältet på allvar – och fortsätta nära det här intre
     <img src="https://img.shields.io/badge/-Windows-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-LINUX-1679A7?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20Active%20Directory-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
  
 </div>
 
@@ -53,6 +54,8 @@ Ivrig att ge mig in i fältet på allvar – och fortsätta nära det här intre
     <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Brim-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NetworkMiner-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TShark-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Firewall-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
@@ -60,6 +63,7 @@ Ivrig att ge mig in i fältet på allvar – och fortsätta nära det här intre
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Osquery-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-bahnhof%20SAFE-1679A7?&style=for-the-badge&logoColor=white" />
 </div>
 
@@ -85,6 +89,15 @@ Ivrig att ge mig in i fältet på allvar – och fortsätta nära det här intre
 <div>
     <img src="https://img.shields.io/badge/-Metasploit-EF3B2D?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp Suite-EF3B2D?&style=for-the-badge&logoColor=white" />
+</div>
+
+### Digital Forensics
+<div>
+    <img src="https://img.shields.io/badge/-Autopsy-EF3B2D?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Volatility-EF3B2D?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-EF3B2D?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-KAPE-EF3B2D?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Redline-EF3B2D?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Certifications
