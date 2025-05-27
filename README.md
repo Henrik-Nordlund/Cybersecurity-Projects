@@ -17,7 +17,7 @@ Här på sidan finns ett urval av mina projekt, experiment och exempel. Välkomm
 
 
 ## Mål
-Ivrig att ge mig in fältet på allvar, och fortsätta nära det här intresset. :)
+Ivrig att ge mig in i fältet på allvar – och fortsätta nära det här intresset. 🙂
 
 ## Skills
 
