@@ -71,6 +71,7 @@ Ivrig att ge mig in i fältet på allvar – och fortsätta nära det här intre
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-ELK 101-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google Chronicle-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ### Threat Intelligence
