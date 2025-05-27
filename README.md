@@ -36,7 +36,7 @@ Ivrig att ge mig in i fältet på allvar – och fortsätta nära det här intre
 
 ## Tools
 
-### Operating system
+### Operating system inklusive IAM
 <div>
     <img src="https://img.shields.io/badge/-Windows-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-LINUX-1679A7?&style=for-the-badge&logoColor=white" />
@@ -71,7 +71,6 @@ Ivrig att ge mig in i fältet på allvar – och fortsätta nära det här intre
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-ELK 101-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ### Threat Intelligence
@@ -120,5 +119,5 @@ Ivrig att ge mig in i fältet på allvar – och fortsätta nära det här intre
 -	<a href = "https://github.com/Henrik-Nordlund/Basic-Network-Security-Analysis-with-Wireshark">Använde Wireshark för att analysera HTTP/S and RDP trafik</a>
 -	<a href = "https://github.com/Henrik-Nordlund/Vulnerability-Scanning-with-Nmap---Network-Scanning">Sårbarhetsanalyser med Nmap</a> 
 -	<a href = "https://github.com/Henrik-Nordlund/Vulnerability-Management-Program">Evaluating a vulnerability program: A GRC project</a>
-- <a href = "https://github.com/Henrik-Nordlund/Third-part-risk-management-TPRM-">Evaluating a key vendor in a TPRM process: A GRC project</a>
-- <a href = "https://github.com/Henrik-Nordlund/Designing-a-comprehensive-Cyber-Security-Program-">Designing a comprehensive cybersecurity program: A GRC project</a>
+-   <a href = "https://github.com/Henrik-Nordlund/Third-part-risk-management-TPRM-">Evaluating a key vendor in a TPRM process: A GRC project</a>
+-   <a href = "https://github.com/Henrik-Nordlund/Designing-a-comprehensive-Cyber-Security-Program-">Designing a comprehensive cybersecurity program: A GRC project</a>
