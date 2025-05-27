@@ -1,10 +1,9 @@
 # Hej, jag heter Henrik. Välkommen till min sida för cybersäkerhet.
 <a href="https://www.linkedin.com/in/henrik-nordlund"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Jag är en teknikintresserad filur som har snöat in mig på cyberssäkerhet. Utbildad ingenjör, mestadels med en bakgrund inom miljöteknik och även alla delar av marknadsföring och i synnerhet de tekniska delarna.
-Men ni kan tro att det bidrog till ett intresse för social ingenjörskonst, och säkerhetsutbildningar, det var intressant för mig. Och naturligtvis att hjälpa och "bygga upp" människor, det har alltid varit en drivkraft ända sedan jag var en elevassistent (vuxenutbildning).
+Jag är en teknikintresserad filur som har snöat in mig på cyberssäkerhet. Utbildad ingenjör i grunden, och mestadels med en bakgrund inom miljöteknik/IT, men har av olika omständigheter arbetat inom alla delar av marknadsföring och i synnerhet de tekniska delarna. Ni kan vara övertygade om min bakgrund inom marknadsföring har bidragit till ett intresse för social ingenjörskonst och säkerhetsutbildningar! Social engineering som det heter på engelska, är mer psykologi än teknik och handlar kortfattat om att lura och manipulera människor för att få tag på information, eller tillträde till något de inte borde ha tillträde till - ofta första steget i en fullskalig attack. En slipad angripare utnyttjar den svagaste länken i kedjan - människor, i regel - som ju drivs av fåfänga, ego, nyfikenhet, girighet etc, och spelar på känslor som rädsla/stress eller vilja att hjälpa för att få in en fot. De flesta människor idag har haft någon erfarenhet med phishing - falska mejl - med länkar som de inte borde klicka på, från avsändare som inte är vad de ser ut att vara för att ta det vanligaste exemplet. 
 
-Både att jobba som ingenjör, och att jobba för olika startup företag, lärde mig att första prioritet alltid är att skapa en funktionell lösning på problemet ASAP med det du vet och kan just nu – perfektion kommer senare. Man måste inte veta *allt* från början, i IT branschen så lär vi oss allteftersom och blir allt vassare.
+ Jag har lärt mig från både från att jobba som ingenjör, och att jobba för olika startup företag, att första prioritet alltid är att skapa <b>en lösning</b> på problemet ASAP. Den lösningen ska bara vara "tillräckligt bra" - perfektion kommer senare i mån av tid, intresse och resurser. Man måste inte veta *allt* från början, i IT branschen så lär vi oss allteftersom och blir allt vassare.
 
 Länkar till min <a href = "https://github.com/Henrik-Nordlund/Professional-statement-in-both-Swedish-and-English">professional statement</a> också.
 
@@ -75,6 +74,7 @@ Ivrig att ge mig in fältet på allvar, och fortsätta nära det här intresset.
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google Cybersecurity Certificate-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-GRC Mastery-006400?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
