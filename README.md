@@ -23,7 +23,7 @@ Ivrig att ge mig in i fältet på allvar – och fortsätta nära det här intre
 
 | (Some) Skills                                         | Associated Project or Tools         |
 |-----------------------------------------------|----------------------------|
-| Log Analysis          | tcpdump, Wireshark, python automation|
+| Log Analysis          | tcpdump, Wireshark, <a href = "https://github.com/Henrik-Nordlund/Scripting-python">python automation</a>|
 | Network Traffic Monitoring and Attack Detection | Suricata, Wireshark, tcpdump|
 | Database analysis        | <a href = "https://github.com/Henrik-Nordlund/Apply-filters-to-SQL-queries">Applicerade filters to SQL queries</a>, Excel|
 | Incident Response Planning and Execution      | <a href = "https://github.com/Henrik-Nordlund/Incident-handling">Incidenthantering</a>|
