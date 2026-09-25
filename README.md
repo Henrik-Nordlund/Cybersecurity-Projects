@@ -18,7 +18,7 @@ My background in digital marketing has also given me an interest in the human si
 
 This repository contains selected projects, labs and experiments from my cybersecurity studies and self-directed work. The projects are conducted in lab or simulated environments and are intended to demonstrate what I have worked with, what I have learned and how I approach security-related problems.
 
-[**Professional statement**](https://github.com/Henrik-Nordlund/Professional-statement-in-both-Swedish-and-English)
+[**Professional statement**](https://github.com/Henrik-Nordlund/Professional-statement-in-both-Swedish-and-English)  
 *A professional statement originally developed as part of the Google Cybersecurity Professional Certificate.*
 
 
