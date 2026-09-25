@@ -1,5 +1,5 @@
 
-👋**Welcome to my cybersecurity site!**   
+👋**Welcome to my cybersecurity portfolio!**   
 
 
 <a href="https://www.linkedin.com/in/henrik-nordlund"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -21,7 +21,8 @@ My background in digital marketing has also given me an interest in the human si
 
 This repository contains selected projects, labs and experiments from my cybersecurity studies and self-directed work. The projects are conducted in lab or simulated environments and are intended to demonstrate what I have worked with, what I have learned and how I approach security-related problems.
 
-<a href = "https://github.com/Henrik-Nordlund/Professional-statement-in-both-Swedish-and-English">professional statement</a>.
+
+[Professional statement](https://github.com/Henrik-Nordlund/Professional-statement-in-both-Swedish-and-English)
 
 ## Skills
 
