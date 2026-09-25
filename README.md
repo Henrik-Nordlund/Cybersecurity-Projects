@@ -1,13 +1,22 @@
 # Hej, jag heter Henrik. Välkommen till min sida för cybersäkerhet.
 <a href="https://www.linkedin.com/in/henrik-nordlund"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-👋**Hej och välkommen!**
+👋**Welcome to my cybersecurity site!**
 
-Jag är en teknikintresserad filur som har fastnat för cybersäkerhet. Efter en del överväganden har jag valt att närma mig fältet som en generalist – med fokus på Blue Team, GRC och molnmiljöer (särskilt Azure) – men hjärtat klappar ändå lite extra för de tekniska momenten.
+About Me
+I have a background in engineering, IT and digital marketing, and have developed a strong interest in cybersecurity over the past few years.
+After careful consideration, I decided to approach cybersecurity as a generalist, where I develop knowledge and skills in both technical cybersecurity and GRC (Governance, Risk and Compliance). This is the approach that makes the most sense to me, as I have mostly worked in smaller company environments where you are expected to chip in where you are most needed and wear many hats. I believe this broad perspective is valuable in this field - specialization can always come later.
+I have also worked for larger companies, particularly in regulated industries within heavy industry where information security is a formal business requirement – it’s not just a business advantage or a cost item on an Excel spreadsheet – it has affected system design, operations and the business model.
+I am interested in Blue Team, security operations, GRC and Microsoft-based environments, especially Azure and Entra ID. I am comfortable working with both the technical and GRC sides of cybersecurity, but I prefer the technical side and have spent a lot of time working with log analysis, network traffic, vulnerability assessment, incident handling, scripting and security controls in lab environments.
+My cybersecurity work includes both technical security labs and broader security and risk projects. I use these projects to develop my ability to investigate security-related events, assess findings, document conclusions and understand how technical security measures fit into a wider security process.
+My background in digital marketing has also given me an interest in the human side of cybersecurity, including social engineering and the ways in which attackers exploit human behaviour. Having once worked at an advertising agency in central Stockholm, I find such topics quite interesting. Not all people in the marketing department click on “click here and win cash prizes” links in emails, you know! Personally though, I prefer the contact messages on WhatsApp from accounts displaying images of attractive young women “interested in middle-aged men in Stockholm”. Unfortunately for them, I never have time to answer.
+This repository contains selected projects, labs and experiments from my cybersecurity studies and self-directed work. The projects are conducted in lab or simulated environments and are intended to demonstrate what I have worked with, what I have learned and how I approach security-related problems.
 
-Det har hittills varit särskilt roligt att jobba med sådana saker som logganalys, automatisering och liknande på olika hackningsplattformar. Kan vara riktigt utmanande ibland!
 
-I botten är jag en ingenjör, och har arbetat både med miljöteknik och IT. Dessutom har jag arbetat med digital marknadsföring, så det finns en särskild plats i mitt hjärta för **social engineering**. Social engineering handlar för er som eventuellt inte känner till det, om att lura och manipulera människor för att få tag på information eller tillgång till något man egentligen inte borde ha åtkomst till. Det är ofta det första steget i en större cyberattack, därför att slipad angripare vet att den svagaste länken i säkerhetskedjan ofta är människor. Folk i allmänhet drivs av nyfikenhet, girighet, ambition, ego, fåfänga etcetera – och det är lätt att spela på känslor som stress/rädsla eller en vilja att hjälpa. De flesta känner till klassika bluffmejl (phishing), med länkar som de inte borde klicka på, från en avsändare som inte är vad de ser ut att vara.
+
+
+
+
 
 Länkar till mitt <a href = "https://github.com/Henrik-Nordlund/Professional-statement-in-both-Swedish-and-English">professional statement</a>.
 
@@ -16,8 +25,6 @@ Här på sidan finns ett urval av mina projekt, experiment och exempel. Välkomm
 
 
 
-## Mål
-Ivrig att ge mig in i fältet på allvar – och fortsätta nära det här intresset. 🙂
 
 ## Skills
 
