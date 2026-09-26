@@ -20,10 +20,83 @@ This repository contains selected projects, labs and experiments from my cyberse
 
 [**Professional statement**](https://github.com/Henrik-Nordlund/Professional-Statement)  
 *A professional statement originally developed as part of the Google Cybersecurity Professional Certificate. The text has been lightly edited for language and clarity.*
-
-
-
 ## Skills
+
+### Security Analysis & Operations
+
+* Log analysis and investigation
+* Security monitoring and alert analysis
+* Incident analysis and triage
+* Network traffic analysis
+* Vulnerability assessment and prioritization
+* Basic threat detection and investigation
+
+### Network Security
+
+* TCP/IP, DNS and common network protocols
+* Network reconnaissance and scanning
+* Nmap
+* Wireshark
+* Network traffic analysis
+* Basic network security concepts
+
+### Endpoint & System Security
+
+* Windows security
+* Linux administration and system security
+* Microsoft Defender
+* Windows Firewall
+* File permissions and access control
+* Endpoint security concepts
+
+### Identity & Access Management
+
+* Active Directory
+* Microsoft Entra ID
+* Authentication and MFA
+* Conditional Access
+* Role-based access control (RBAC)
+* Least privilege
+
+### Microsoft Security & Cloud
+
+* Microsoft 365 security
+* Microsoft Intune
+* Microsoft Defender
+* Entra ID
+* Azure security fundamentals
+* Security policies and controls
+
+### Vulnerability & Penetration Testing
+
+* Vulnerability scanning
+* Vulnerability assessment
+* Basic web application security testing
+* Reconnaissance
+* Enumeration
+* Basic penetration testing techniques
+
+### Scripting & Automation
+
+* Python
+* PowerShell
+* Bash
+* Security-related scripting and automation
+* Data processing and analysis
+
+### GRC & Risk Management
+
+* Vulnerability management
+* Risk assessment
+* Third-party risk management (TPRM)
+* Security controls
+* NIST Cybersecurity Framework
+* ISO 27001 concepts
+* Security documentation and reporting
+
+
+
+
 
 | (Some) Skills                                         | Associated Project or Tools         |
 |-----------------------------------------------|----------------------------|
