@@ -191,6 +191,36 @@ This repository contains selected projects, labs and experiments from my cyberse
 * ISO/IEC 27001
 * ITIL 4
 
+## Environment
+
+### Microsoft Cloud & Identity
+
+* Microsoft 365 Developer tenant
+* Microsoft Entra ID
+* Microsoft Azure
+* Microsoft Intune
+* Active Directory
+* Windows Server
+
+### Security Labs & Training Environments
+
+* TryHackMe
+* Coursera
+* Linux virtual machines
+* Windows virtual machines
+* Simulated enterprise environments
+* Isolated security lab environments
+
+### Development & Automation
+
+* GitHub
+* Python
+* PowerShell
+* Bash
+* Microsoft Graph PowerShell
+* VS Code
+
+
 ## Certifications
 
 <div>
