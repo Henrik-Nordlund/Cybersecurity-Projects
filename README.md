@@ -6,7 +6,7 @@
 
 I have a background in engineering, IT and digital marketing, and have developed a strong interest in cybersecurity over the past few years.
 
-After careful consideration, I decided to approach cybersecurity as a generalist, where I develop knowledge and skills in both technical cybersecurity and GRC (Governance, Risk and Compliance). This is the approach that makes the most sense to me, as I have mostly worked in smaller company environments where you are expected to chip in where you are most needed and wear many hats. I believe this broad perspective is valuable in this field - specialization can always come later.
+After careful consideration, I decided to approach cybersecurity as a generalist, where I develop knowledge and skills in both technical cybersecurity and GRC (Governance, Risk and Compliance). I also included offensive security in my training, including the Junior Penetration Tester path on TryHackMe. This was a deliberate choice to better understand how attacks work from the perspective of a defender. This is the approach that makes the most sense to me, as I have mostly worked in smaller company environments where you are expected to chip in where you are most needed and wear many hats. I believe this broad perspective is valuable in this field - specialization can always come later. 
 
 I have also worked for larger companies, particularly in regulated industries within heavy industry where information security is a formal business requirement – it’s not just a business advantage or a cost item on an Excel spreadsheet – it has affected system design, operations and the business model.
 
