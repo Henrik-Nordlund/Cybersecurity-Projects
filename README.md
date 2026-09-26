@@ -94,75 +94,102 @@ This repository contains selected projects, labs and experiments from my cyberse
 * ISO 27001 concepts
 * Security documentation and reporting
 
-## Tools
+## Tools & Technologies
 
-### Operating system inklusive IAM
-<div>
-    <img src="https://img.shields.io/badge/-Windows-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-LINUX-1679A7?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Active%20Directory-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20Azure-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
- 
-</div>
+### Microsoft & Identity
 
+* Microsoft Entra ID
+* Microsoft 365
+* Microsoft Intune
+* Active Directory
+* Windows Server
+* Microsoft Defender
+* Windows Firewall
+* Azure
+* PowerShell
+* Microsoft Graph PowerShell
 
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-tcpdump-1679A7?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Brim-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NetworkMiner-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TShark-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Firewall-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
+### Networking & Security Analysis
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Osquery-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-bahnhof%20SAFE-1679A7?&style=for-the-badge&logoColor=white" />
-</div>
+* Wireshark
+* tcpdump
+* Nmap
+* TCP/IP
+* DNS
+* HTTP/HTTPS
+* SMB
+* SSH
+* Network traffic analysis
+* Packet analysis
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ELK 101-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google Chronicle-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
+### Linux & System Tools
 
-### Threat Intelligence
-<div>
-    <img src="https://img.shields.io/badge/-Yara-EF3B2D?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-MISP-EF3B2D?&style=for-the-badge&logoColor=white" />
-</div>
+* Linux
+* Bash
+* Ubuntu
+* Kali Linux
+* Linux command line
+* File permissions and access control
 
-### Vulnerability analysis
-<div>
-    <img src="https://img.shields.io/badge/-nmap-006400?&style=for-the-badge&logoColor=white" />
-</div>
+### SIEM & Security Monitoring
 
-### Penetration testing
-<div>
-    <img src="https://img.shields.io/badge/-Metasploit-EF3B2D?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp Suite-EF3B2D?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-John the Ripper-EF3B2D?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Hydra-EF3B2D?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-GoBuster-EF3B2D?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-SQLMap-EF3B2D?&style=for-the-badge&logoColor=white" />
-</div>
+* Splunk
+* Google Chronicle
+* Snort
+* Log analysis
+* Security event analysis
+* Alert investigation
+* Phishing analysis
 
-### Digital Forensics
-<div>
-    <img src="https://img.shields.io/badge/-Autopsy-EF3B2D?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Volatility-EF3B2D?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-EF3B2D?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-KAPE-EF3B2D?&style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Redline-EF3B2D?&style=for-the-badge&logoColor=white" />
-</div>
+### Security & Vulnerability Tools
+
+* Qualys VMDR
+* Burp Suite
+* OpenVAS
+* Gobuster
+* Nikto
+* Metasploit
+* Hydra
+* John the Ripper
+* SQLmap
+
+### Digital Forensics & Investigation
+
+* KAPE
+* Velociraptor
+* Redline
+* Autopsy
+* NetworkMiner
+* File and artifact analysis
+* Windows forensic analysis
+* Network investigation
+
+### Security Analysis & Investigation
+
+* CyberChef
+* VirusTotal
+* Hash analysis
+* File analysis
+
+### Scripting & Data Analysis
+
+* Python
+* PowerShell
+* Bash
+* SQL
+* Regular expressions
+* JSON
+* CSV
+
+### Security Frameworks & Models
+
+* MITRE ATT&CK
+* Cyber Kill Chain
+* Pyramid of Pain
+* OWASP
+* NIST Cybersecurity Framework
+* ISO/IEC 27001
+* ITIL 4
 
 ## Certifications
 
