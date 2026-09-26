@@ -94,23 +94,6 @@ This repository contains selected projects, labs and experiments from my cyberse
 * ISO 27001 concepts
 * Security documentation and reporting
 
-
-
-
-
-| (Some) Skills                                         | Associated Project or Tools         |
-|-----------------------------------------------|----------------------------|
-| Log Analysis          | tcpdump, Wireshark, <a href = "https://github.com/Henrik-Nordlund/Scripting-python">python automation</a>|
-| Network Traffic Monitoring and Attack Detection | Suricata, Wireshark, tcpdump|
-| Database analysis        | <a href = "https://github.com/Henrik-Nordlund/Apply-filters-to-SQL-queries">Applicerade filters to SQL queries</a>, Excel|
-| Incident Response Planning and Execution      | <a href = "https://github.com/Henrik-Nordlund/Incident-handling">Incidenthantering</a>|
-| Vulnerability analysis                  | <a href = "https://github.com/Henrik-Nordlund/Vulnerability-Scanning-with-Nmap---Network-Scanning">Sårbarhetsanalyser med Nmap</a> |
-| Scripting and Automation for Threat Mitigation | Python automation|
-| IT Forensics | <a href = "https://github.com/Henrik-Nordlund/Managing-file-permissions-with-Linux">Hanterade filbehörigheter med Linux</a>|
-| Threat Hunting | OSINT|
-| Endpointskydd (EDR) | <a href = "https://github.com/Henrik-Nordlund/Configuring-and-updating-Microsoft-defender">Konfigurerade and uppdaterade Microsoft Windows - Defender</a>|
-| Brandväggar (NGFW) | <a href = "https://github.com/Henrik-Nordlund/Enabling-and-configuring-Microsoft-Firewall">Driftsatte and konfigurerade Microsoft Firewall</a>|
-
 ## Tools
 
 ### Operating system inklusive IAM
