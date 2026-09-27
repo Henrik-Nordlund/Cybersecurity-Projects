@@ -273,21 +273,20 @@ Intune is a widely used cloud based tool created and owned by Microsoft that can
 - GRC Mastery
 - Google Cybersecurity Professional Certificate
 
-### Training & Learning Paths
+### Training & Learning Paths/courses
 
 TryHackMe — 180+ completed rooms 
 Completed learning paths: Pre Security, Cybersecurity 101, SOC 1, Jr Penetration tester
 
-Microsoft Learn — public profile
+Microsoft Learn — AZ-900, SC-900, MS-900, AI-900, AZ-104
 Pluralsight — Active Directory & Entra ID training path
-Coursera
+Coursera (different courses)?
 
 ## External Profiles
 
 - TryHackMe - <a href = "https://tryhackme.com/p/HenrikinSweden">public profile</a>
-- Microsoft Learn - <a href = "https://tryhackme.com/p/HenrikinSweden">public profile</a>
-- Credly
-- Coursera
+- Microsoft Learn - <a href = "https://learn.microsoft.com/sv-se/users/henriknordlund/">public profile</a>
+- Credly - <a href = "https://www.credly.com/users/henrik-nordlund/badges/credly">my certifications & badges</a> 
 - Sololearn (python training) - <a href = "https://www.sololearn.com/en/profile/23242772">public profile</a>
 - Other relevant public profiles
 
