@@ -277,6 +277,7 @@ Intune supports a range of device platforms, including Windows, macOS, iOS/iPadO
 
 - TryHackMe — 180+ completed rooms across four completed learning paths: Pre Security, Cyber Security 101, SOC Level 1 and Junior Penetration Tester
 - Microsoft Learn — AZ-900, SC-900, MS-900, AI-900 and AZ-104
+- [Lexicon — IT Support Technician training](https://true.lexicon.se/diploma-lexicon-henrik-nordlund-328244-3706/?zone=truecrt&lang=se)
 - Pluralsight — Active Directory & Entra ID training path
 - SoloLearn — Introduction to Python (completed); Python Intermediate (in progress)
 
