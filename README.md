@@ -40,9 +40,9 @@ A hands-on Microsoft Entra ID lab focused on role-based access control, scoped a
 
 ### Microsoft Intune – Endpoint Management
 
-A hands-on Microsoft Intune lab covering endpoint enrollment, configuration, compliance policies, assignments and remediation concepts. Intune is primarily an endpoint management platform, but also provides security-related controls and visibility across managed devices and operating systems.    
+A hands-on Microsoft Intune lab covering endpoint enrollment, configuration, compliance policies, assignments and remediation concepts. Intune is primarily an endpoint management platform, but also provides security-related controls and visibility across managed devices and operating systems.
 
-Intune is a widely used cloud based tool created and owned by Microsoft that can handle both mobile and laptop devices, and more OS than Microsoft's own OS - Windows - including different versions of these OS.
+Intune supports a range of device platforms, including Windows, macOS, iOS/iPadOS and Android, making it relevant to environments with multiple operating systems and device types.
 
 <a href = "https://github.com/Henrik-Nordlund/IT-Infrastructure-Projects/blob/main/Lab%203%20%E2%80%93%20Microsoft%20Intune%3A%20Endpoint%20Management/README.md">View the lab</a>
 
