@@ -20,7 +20,7 @@ This repository contains selected projects, labs and experiments from my cyberse
 
 ## Projects
 
-### Incident Handler's Journal
+### Incident Handling & Investigation
 
 A collection of incident analysis and investigation exercises based on simulated security incidents. The project covers incident documentation, ransomware, phishing, malware and IoC investigation, SIEM-based analysis with Google Chronicle, and post-incident review.
 
