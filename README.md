@@ -285,7 +285,7 @@ Intune is a widely used cloud based tool created and owned by Microsoft that can
 - TryHackMe - <a href = "https://tryhackme.com/p/HenrikinSweden">public profile</a>
 - Microsoft Learn - <a href = "https://learn.microsoft.com/sv-se/users/henriknordlund/">public profile</a>
 - Credly - <a href = "https://www.credly.com/users/henrik-nordlund/badges/credly">my certifications & badges</a> 
-- Sololearn (python training) - <a href = "https://www.sololearn.com/en/profile/23242772">public profile</a>
+- Sololearn - <a href = "https://www.sololearn.com/en/profile/23242772">Python training</a>
 - ITIL & Active Directory - <a href = "https://github.com/Henrik-Nordlund/professional-certifications/blob/main/README.md
 ">other certification and training</a>
 
