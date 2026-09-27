@@ -34,6 +34,10 @@ This repository contains selected projects, labs and experiments from my cyberse
 
 ### Microsoft Entra ID – RBAC & Least Privilege
 
+A hands-on Microsoft Entra ID lab focused on role-based access control, scoped administrative permissions and the principle of least privilege.
+
+View the lab
+
 https://github.com/Henrik-Nordlund/IT-Infrastructure-Projects/blob/main/Lab%202%20%E2%80%93%20Microsoft%20Entra%20ID%20RBAC%20and%20Least%20Privilege/README.md
 
 [Short description and link to the lab]
