@@ -59,22 +59,6 @@ Intune is a widely used cloud based tool created and owned by Microsoft that can
 -   <a href = "https://github.com/Henrik-Nordlund/Third-part-risk-management-TPRM-">Evaluating a key vendor in a TPRM process: A GRC project</a>
 -   <a href = "https://github.com/Henrik-Nordlund/Designing-a-comprehensive-Cyber-Security-Program-">Designing a comprehensive cybersecurity program: A GRC project</a>
 
-## Certifications & Training
-
-[Certifications and structured training]
-
-## External Profiles
-
-* TryHackMe
-* Microsoft Learn
-* Credly
-* Other relevant public profiles
-
-## Professional Statement  
-
-[**Professional statement**](https://github.com/Henrik-Nordlund/Professional-Statement)  
-*A professional statement originally developed as part of the Google Cybersecurity Professional Certificate. The text has been lightly edited for language and clarity.*
-
 ## Skills
 
 ### Security Analysis & Operations
@@ -275,11 +259,39 @@ Intune is a widely used cloud based tool created and owned by Microsoft that can
 * Microsoft Graph PowerShell
 * VS Code
 
+## Certifications & Training
 
-## Certifications
+### Certifications
 
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google Cybersecurity Certificate-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-GRC Mastery-000000?&style=for-the-badge&logoColor=white" />
-</div>
+- CompTIA Security+
+- ITIL 4 Foundation
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
+- Microsoft 365 Certified: Fundamentals (MS-900)
+- ISO/IEC 27001 Lead Auditor
+- GRC Mastery
+- Google Cybersecurity Professional Certificate
+
+### Training & Learning Paths
+
+TryHackMe — 180+ completed rooms 
+Completed learning paths: Pre Security, Cybersecurity 101, SOC 1, Jr Penetration tester
+
+Microsoft Learn — public profile
+Pluralsight — Active Directory & Entra ID training path
+Coursera
+
+## External Profiles
+
+- TryHackMe - <a href = "https://tryhackme.com/p/HenrikinSweden">public profile</a>
+- Microsoft Learn - <a href = "https://tryhackme.com/p/HenrikinSweden">public profile</a>
+- Credly
+- Coursera
+- Sololearn (python training) - <a href = "https://www.sololearn.com/en/profile/23242772">public profile</a>
+- Other relevant public profiles
+
+## Professional Statement  
+
+[**Professional statement**](https://github.com/Henrik-Nordlund/Professional-Statement)  
+*A professional statement originally developed as part of the Google Cybersecurity Professional Certificate. The text has been lightly edited for language and clarity.*
