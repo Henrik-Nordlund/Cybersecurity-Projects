@@ -40,13 +40,15 @@ A hands-on Microsoft Entra ID lab focused on role-based access control, scoped a
 
 ### Microsoft Intune – Endpoint Management
 
-A hands-on Microsoft Intune lab covering endpoint enrollment, configuration, compliance policies, assignments and remediation concepts. Intune is primarily an endpoint management platform, but also provides security-related controls and visibility across managed devices and operating systems. Intune is a widely used tool by Microsoft that can handle both mobile and laptop devices, and more OS than Microsoft's OS - Windows.
+A hands-on Microsoft Intune lab covering endpoint enrollment, configuration, compliance policies, assignments and remediation concepts. Intune is primarily an endpoint management platform, but also provides security-related controls and visibility across managed devices and operating systems.    
 
-<a href = "https://github.com/Henrik-Nordlund/IT-Infrastructure-Projects/blob/main/Lab%202%20%E2%80%93%20Microsoft%20Entra%20ID%20RBAC%20and%20Least%20Privilege/README.md">View the lab</a>
+Intune is a widely used cloud based tool created and owned by Microsoft that can handle both mobile and laptop devices, and more OS than Microsoft's OS - Windows - including different versions of these OS.
+
+<a href = "https://github.com/Henrik-Nordlund/IT-Infrastructure-Projects/blob/main/README.md">View the lab</a>
 
 ## Projects – Legacy
-- 	<a href = "https://github.com/Henrik-Nordlund/Scripting-python">Scripting Python (flera projekt)</a>
-- 	<a href = "https://github.com/Henrik-Nordlund/Managing-file-permissions-with-Linux">Hanterade filbehörigheter med Linux</a>
+- <a href = "https://github.com/Henrik-Nordlund/Scripting-python">Scripting Python (flera projekt)</a>
+- <a href = "https://github.com/Henrik-Nordlund/Managing-file-permissions-with-Linux">Hanterade filbehörigheter med Linux</a>
 -	<a href = "https://github.com/Henrik-Nordlund/Apply-filters-to-SQL-queries">Applicerade filters to SQL queries</a>
 -	<a href = "https://github.com/Henrik-Nordlund/Configuring-and-updating-Microsoft-defender">Konfigurerade and uppdaterade Microsoft Windows - Defender</a>
 -	<a href = "https://github.com/Henrik-Nordlund/Enabling-and-configuring-Microsoft-Firewall">Driftsatte and konfigurerade Microsoft Firewall</a>
