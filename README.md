@@ -40,7 +40,9 @@ A hands-on Microsoft Entra ID lab focused on role-based access control, scoped a
 
 ### Microsoft Intune – Endpoint Management
 
-[Short description and link to the lab]
+A hands-on Microsoft Intune lab covering endpoint enrollment, configuration, compliance policies, assignments and remediation concepts. Intune is primarily an endpoint management platform, but also provides security-related controls and visibility across managed devices and operating systems. Intune is a widely used tool by Microsoft that can handle both mobile and laptop devices, and more OS than Microsoft's OS - Windows.
+
+<a href = "https://github.com/Henrik-Nordlund/IT-Infrastructure-Projects/blob/main/Lab%202%20%E2%80%93%20Microsoft%20Entra%20ID%20RBAC%20and%20Least%20Privilege/README.md">View the lab</a>
 
 ## Projects – Legacy
 - 	<a href = "https://github.com/Henrik-Nordlund/Scripting-python">Scripting Python (flera projekt)</a>
@@ -54,8 +56,6 @@ A hands-on Microsoft Entra ID lab focused on role-based access control, scoped a
 -	<a href = "https://github.com/Henrik-Nordlund/Vulnerability-Management-Program">Evaluating a vulnerability program: A GRC project</a>
 -   <a href = "https://github.com/Henrik-Nordlund/Third-part-risk-management-TPRM-">Evaluating a key vendor in a TPRM process: A GRC project</a>
 -   <a href = "https://github.com/Henrik-Nordlund/Designing-a-comprehensive-Cyber-Security-Program-">Designing a comprehensive cybersecurity program: A GRC project</a>
-
-[Existing projects that have not yet been reviewed or renovated]
 
 ## Certifications & Training
 
@@ -72,8 +72,6 @@ A hands-on Microsoft Entra ID lab focused on role-based access control, scoped a
 
 [**Professional statement**](https://github.com/Henrik-Nordlund/Professional-Statement)  
 *A professional statement originally developed as part of the Google Cybersecurity Professional Certificate. The text has been lightly edited for language and clarity.*
-
-[Link to Professional Statement repository]
 
 ## Skills
 
