@@ -273,7 +273,7 @@ Intune supports a range of device platforms, including Windows, macOS, iOS/iPadO
 - GRC Mastery
 - Google Cybersecurity Professional Certificate
 
-### Training & Learning Paths/courses
+### Training & Learning Paths
 
 - TryHackMe — 180+ completed rooms across four completed learning paths: Pre Security, Cyber Security 101, SOC Level 1 and Junior Penetration Tester
 - Microsoft Learn — AZ-900, SC-900, MS-900, AI-900 and AZ-104
