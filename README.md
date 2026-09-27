@@ -22,13 +22,11 @@ This repository contains selected projects, labs and experiments from my cyberse
 
 ### Incident Handler's Journal
 
-- 	<a href = "https://github.com/Henrik-Nordlund/Incident-handling">Incidenthanteringsrapporter</a>
-[Project description and link]
+- 	<a href = "https://github.com/Henrik-Nordlund/Incident-handling">Incident Handling & Investigation</a>
 
 ### Vulnerability Assessment
 - 	<a href = "https://github.com/Henrik-Nordlund/Analyze-a-vulnerable-system-for-a-small-ecommerce-business">Analysera ett sårbart system för en mindre e-handelsaktör</a>
 
-[Project description and links to original documentation]
 
 ## Related Infrastructure Projects
 
