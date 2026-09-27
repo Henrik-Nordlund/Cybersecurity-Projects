@@ -44,7 +44,7 @@ A hands-on Microsoft Intune lab covering endpoint enrollment, configuration, com
 
 Intune is a widely used cloud based tool created and owned by Microsoft that can handle both mobile and laptop devices, and more OS than Microsoft's own OS - Windows - including different versions of these OS.
 
-<a href = "https://github.com/Henrik-Nordlund/IT-Infrastructure-Projects/blob/main/README.md">View the lab</a>
+<a href = "https://github.com/Henrik-Nordlund/IT-Infrastructure-Projects/blob/main/Lab%203%20%E2%80%93%20Microsoft%20Intune%3A%20Endpoint%20Management/README.md">View the lab</a>
 
 ## Projects – Legacy
 - <a href = "https://github.com/Henrik-Nordlund/Scripting-python">Scripting Python (flera projekt)</a>
