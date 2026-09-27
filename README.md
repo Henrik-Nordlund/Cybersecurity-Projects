@@ -18,8 +18,61 @@ My background in digital marketing has also given me an interest in the human si
 
 This repository contains selected projects, labs and experiments from my cybersecurity studies and self-directed work. The projects are conducted in lab or simulated environments and are intended to demonstrate what I have worked with, what I have learned and how I approach security-related problems.
 
+## Projects
+
+### Incident Handler's Journal
+
+- 	<a href = "https://github.com/Henrik-Nordlund/Incident-handling">Incidenthanteringsrapporter</a>
+[Project description and link]
+
+### Vulnerability Assessment
+- 	<a href = "https://github.com/Henrik-Nordlund/Analyze-a-vulnerable-system-for-a-small-ecommerce-business">Analysera ett sårbart system för en mindre e-handelsaktör</a>
+
+[Project description and links to original documentation]
+
+## Related Infrastructure Projects
+
+### Microsoft Entra ID – RBAC & Least Privilege
+
+[Short description and link to the lab]
+
+### Microsoft Intune – Endpoint Management
+
+[Short description and link to the lab]
+
+## Projects – Legacy
+- 	<a href = "https://github.com/Henrik-Nordlund/Scripting-python">Scripting Python (flera projekt)</a>
+- 	<a href = "https://github.com/Henrik-Nordlund/Managing-file-permissions-with-Linux">Hanterade filbehörigheter med Linux</a>
+-	<a href = "https://github.com/Henrik-Nordlund/Apply-filters-to-SQL-queries">Applicerade filters to SQL queries</a>
+-	<a href = "https://github.com/Henrik-Nordlund/Configuring-and-updating-Microsoft-defender">Konfigurerade and uppdaterade Microsoft Windows - Defender</a>
+-	<a href = "https://github.com/Henrik-Nordlund/Enabling-and-configuring-Microsoft-Firewall">Driftsatte and konfigurerade Microsoft Firewall</a>
+-	<a href = "https://github.com/Henrik-Nordlund/Capturing-packets-with-Wireshark">Installerade Wireshark på Ubuntu</a>
+-	<a href = "https://github.com/Henrik-Nordlund/Basic-Network-Security-Analysis-with-Wireshark">Använde Wireshark för att analysera HTTP/S and RDP trafik</a>
+-	<a href = "https://github.com/Henrik-Nordlund/Vulnerability-Scanning-with-Nmap---Network-Scanning">Sårbarhetsanalyser med Nmap</a> 
+-	<a href = "https://github.com/Henrik-Nordlund/Vulnerability-Management-Program">Evaluating a vulnerability program: A GRC project</a>
+-   <a href = "https://github.com/Henrik-Nordlund/Third-part-risk-management-TPRM-">Evaluating a key vendor in a TPRM process: A GRC project</a>
+-   <a href = "https://github.com/Henrik-Nordlund/Designing-a-comprehensive-Cyber-Security-Program-">Designing a comprehensive cybersecurity program: A GRC project</a>
+
+[Existing projects that have not yet been reviewed or renovated]
+
+## Certifications & Training
+
+[Certifications and structured training]
+
+## External Profiles
+
+* TryHackMe
+* Microsoft Learn
+* Credly
+* Other relevant public profiles
+
+## Professional Statement  
+
 [**Professional statement**](https://github.com/Henrik-Nordlund/Professional-Statement)  
 *A professional statement originally developed as part of the Google Cybersecurity Professional Certificate. The text has been lightly edited for language and clarity.*
+
+[Link to Professional Statement repository]
+
 ## Skills
 
 ### Security Analysis & Operations
@@ -228,18 +281,3 @@ This repository contains selected projects, labs and experiments from my cyberse
 <img src="https://img.shields.io/badge/-Google Cybersecurity Certificate-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-GRC Mastery-000000?&style=for-the-badge&logoColor=white" />
 </div>
-
-## Projects
-- 	<a href = "https://github.com/Henrik-Nordlund/Scripting-python">Scripting Python (flera projekt)</a>
-- 	<a href = "https://github.com/Henrik-Nordlund/Analyze-a-vulnerable-system-for-a-small-ecommerce-business">Analysera ett sårbart system för en mindre e-handelsaktör</a>
-- 	<a href = "https://github.com/Henrik-Nordlund/Incident-handling">Incidenthanteringsrapporter</a>
-- 	<a href = "https://github.com/Henrik-Nordlund/Managing-file-permissions-with-Linux">Hanterade filbehörigheter med Linux</a>
--	<a href = "https://github.com/Henrik-Nordlund/Apply-filters-to-SQL-queries">Applicerade filters to SQL queries</a>
--	<a href = "https://github.com/Henrik-Nordlund/Configuring-and-updating-Microsoft-defender">Konfigurerade and uppdaterade Microsoft Windows - Defender</a>
--	<a href = "https://github.com/Henrik-Nordlund/Enabling-and-configuring-Microsoft-Firewall">Driftsatte and konfigurerade Microsoft Firewall</a>
--	<a href = "https://github.com/Henrik-Nordlund/Capturing-packets-with-Wireshark">Installerade Wireshark på Ubuntu</a>
--	<a href = "https://github.com/Henrik-Nordlund/Basic-Network-Security-Analysis-with-Wireshark">Använde Wireshark för att analysera HTTP/S and RDP trafik</a>
--	<a href = "https://github.com/Henrik-Nordlund/Vulnerability-Scanning-with-Nmap---Network-Scanning">Sårbarhetsanalyser med Nmap</a> 
--	<a href = "https://github.com/Henrik-Nordlund/Vulnerability-Management-Program">Evaluating a vulnerability program: A GRC project</a>
--   <a href = "https://github.com/Henrik-Nordlund/Third-part-risk-management-TPRM-">Evaluating a key vendor in a TPRM process: A GRC project</a>
--   <a href = "https://github.com/Henrik-Nordlund/Designing-a-comprehensive-Cyber-Security-Program-">Designing a comprehensive cybersecurity program: A GRC project</a>
