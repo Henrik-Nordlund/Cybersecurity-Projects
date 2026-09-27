@@ -34,6 +34,8 @@ This repository contains selected projects, labs and experiments from my cyberse
 
 ### Microsoft Entra ID – RBAC & Least Privilege
 
+https://github.com/Henrik-Nordlund/IT-Infrastructure-Projects/blob/main/Lab%202%20%E2%80%93%20Microsoft%20Entra%20ID%20RBAC%20and%20Least%20Privilege/README.md
+
 [Short description and link to the lab]
 
 ### Microsoft Intune – Endpoint Management
