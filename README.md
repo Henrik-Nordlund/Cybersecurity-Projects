@@ -30,7 +30,9 @@ View the project: 	<a href = "https://github.com/Henrik-Nordlund/Incident-handli
 
 ### Vulnerability Assessment – Small E-Commerce Business
 
-A vulnerability and risk assessment of a small e-commerce business whose MySQL database was publicly accessible. The project identifies key threats to confidentiality, integrity and availability, assesses likelihood and impact, and proposes security controls based on NIST SP 800-30 Rev. 1. The assessment was originally completed as part of the Google Cybersecurity Professional Certificate back in May 2024 and have been documented and expanded into a standalone portfolio project.
+A vulnerability and risk assessment of a small e-commerce business whose MySQL database was publicly accessible. The project identifies key threats to confidentiality, integrity and availability, assesses likelihood and impact, and proposes security controls based on NIST SP 800-30 Rev. 1.   
+
+The assessment was originally completed as part of the Google Cybersecurity Professional Certificate back in May 2024 and have been documented and expanded into a standalone portfolio project.
 
 View the project: <a href = "https://github.com/Henrik-Nordlund/Analyze-a-vulnerable-system-for-a-small-ecommerce-business">Vulnerability Assessment – Small E-Commerce Business</a>
 
