@@ -28,7 +28,7 @@ The exercises were originally completed as part of the Google Cybersecurity Prof
 
 View the project: 	<a href = "https://github.com/Henrik-Nordlund/Incident-handling">Incident Handling & Investigation</a>
 
-Vulnerability Assessment – Small E-Commerce Business
+### Vulnerability Assessment – Small E-Commerce Business
 
 A vulnerability and risk assessment of a small e-commerce business whose MySQL database was publicly accessible. The project identifies key threats to confidentiality, integrity and availability, assesses likelihood and impact, and proposes security controls based on NIST SP 800-30 Rev. 1.
 
