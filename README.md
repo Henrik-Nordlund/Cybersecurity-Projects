@@ -40,7 +40,7 @@ View the project: <a href = "https://github.com/Henrik-Nordlund/Analyze-a-vulner
 
 A third-party risk assessment of a SaaS provider used by a scientific research organization for data analysis. The project reviews a supplier's responses to a TPRM questionnaire, identifies significant cybersecurity deficiencies, assesses their potential impact on the customer organization, and summarizes key risks for escalation to senior management.
 
-The assessment was originally completed as a practical assessment in **GRC Mastery** and has since been documented and expanded into a standalone portfolio project.
+The assessment was originally completed as a practical assessment in **GRC Mastery** by me and has since been documented and expanded into a standalone portfolio project.
 
 View the project: [Third-Party Risk Management (TPRM)](https://github.com/Henrik-Nordlund/Third-Party-Risk-Management-TPRM)
 
