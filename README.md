@@ -42,7 +42,7 @@ A third-party risk assessment of a SaaS provider used by a scientific research o
 
 The assessment was originally completed as a practical assessment in **GRC Mastery** by me and has since been documented and expanded into a standalone portfolio project.
 
-View the project: [Third-Party Risk Management (TPRM)](https://github.com/Henrik-Nordlund/Third-Party-Risk-Management-TPRM)
+View the project: [Third-Party Risk Management (TPRM)](https://github.com/Henrik-Nordlund/Third-Party-Risk-Management)
 
 ## Related Infrastructure Projects
 
