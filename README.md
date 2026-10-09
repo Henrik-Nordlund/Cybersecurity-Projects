@@ -36,7 +36,7 @@ The assessment was originally completed as part of the Google Cybersecurity Prof
 
 View the project: <a href = "https://github.com/Henrik-Nordlund/Analyze-a-vulnerable-system-for-a-small-ecommerce-business">Vulnerability Assessment – Small E-Commerce Business</a>
 
-### Third-Party Risk Management (TPRM) - in progress
+### Third-Party Risk Management (TPRM)
 
 A third-party risk assessment of a SaaS provider used by a scientific research organization for data analysis. The project reviews a supplier's responses to a TPRM questionnaire, identifies significant cybersecurity deficiencies, assesses their potential impact on the customer organization, and summarizes key risks for escalation to senior management.
 
