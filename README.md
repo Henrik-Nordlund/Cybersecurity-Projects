@@ -46,9 +46,11 @@ View the project: [Third-Party Risk Management (TPRM)](https://github.com/Henrik
 
 ### Windows Endpoint Security
 
-Practical Windows endpoint security project covering Microsoft Defender Antivirus, Windows Firewall configuration, and security verification. In progress.
+Practical Windows endpoint security project covering Microsoft Defender Antivirus, Windows Firewall configuration, and security verification.
 
-View the project: [Windows-Endpoint-Security)](https://github.com/Henrik-Nordlund/Windows-Endpoint-Security)
+In progress.
+
+View the project: [Windows-Endpoint-Security](https://github.com/Henrik-Nordlund/Windows-Endpoint-Security)
 
 
 ## Related Infrastructure Projects
