@@ -44,11 +44,11 @@ The assessment was originally completed by me as a practical assessment in **GRC
 
 View the project: [Third-Party Risk Management (TPRM)](https://github.com/Henrik-Nordlund/Third-Party-Risk-Management)
 
-### Windows E
+### Windows Endpoint Security
 
 Practical Windows endpoint security project covering Microsoft Defender Antivirus, Windows Firewall configuration, and security verification. In progress.
 
-View the project: [Third-Party Risk Management (TPRM)](https://github.com/Henrik-Nordlund/Third-Party-Risk-Management)
+View the project: [Windows-Endpoint-Security)](https://github.com/Henrik-Nordlund/Windows-Endpoint-Security)
 
 
 ## Related Infrastructure Projects
