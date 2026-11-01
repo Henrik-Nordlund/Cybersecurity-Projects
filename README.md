@@ -66,7 +66,7 @@ CONCLUSION
 Security Findings and Limitations
 Vad paketanalysen visar om protokollens säkerhet, vilka uppgifter som kan exponeras och vad som inte har verifierats.
 
-View the project: [Network Traffic Analysis with Wireshark](https://github.com/Henrik-Nordlund/Third-Party-Risk-Management)
+View the project: [Network Traffic Analysis with Wireshark](https://github.com/Henrik-Nordlund/Network-Traffic-Analysis-with-Wireshark)
 
 ## Related Infrastructure Projects
 
