@@ -50,21 +50,18 @@ A hands-on Windows security lab covering Microsoft Defender Antivirus, security 
 
 View the project: [Windows-Endpoint-Security](https://github.com/Henrik-Nordlund/Windows-Endpoint-Security)
 
-### Network Traffic Analysis with Wireshark
-In progress
+### Network Traffic Analysis with Wireshark  
 
-PART 1
-Packet Capture and Traffic Filtering
-Ubuntu-installation, Wireshark-behörigheter, paketinsamling, HTTP/HTTPS, IP-filtrering och TLS Client Hello.
+**A hands-on project in Network Traffic Analysis & Protocol Security**
 
+**PART 1 – Packet Capture and Traffic Filtering**  
+Wireshark installation and configuration on Ubuntu, packet capture, HTTP/HTTPS traffic inspection, TLS Client Hello analysis, and IP- and port-based traffic filtering.
 
-PART 2
-Protocol Security Analysis
-DNS, RADIUS, HTTP Basic Authentication, formulärbaserad autentisering, Telnet kontra SSH och HTTPS-dekryptering med klientens TLS-nyckellogg.
+**PART 2 – Protocol Security Analysis**  
+Hands-on analysis of DNS, RADIUS authentication, HTTP Basic and form-based authentication. Comparison of Telnet and SSH, including HTTPS traffic decryption using locally exported TLS session secrets.
 
-CONCLUSION
-Security Findings and Limitations
-Vad paketanalysen visar om protokollens säkerhet, vilka uppgifter som kan exponeras och vad som inte har verifierats.
+**SECURITY FINDINGS**  
+Investigation of how unencrypted protocols can expose sensitive information, how encryption protects network communications, and under which conditions encrypted traffic can be inspected.  
 
 View the project: [Network Traffic Analysis with Wireshark](https://github.com/Henrik-Nordlund/Network-Traffic-Analysis-with-Wireshark)
 
