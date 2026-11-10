@@ -81,6 +81,13 @@ Intune supports a range of device platforms, including Windows, macOS, iOS/iPadO
 
 <a href = "https://github.com/Henrik-Nordlund/IT-Infrastructure-Projects/blob/main/Lab%203%20%E2%80%93%20Microsoft%20Intune%3A%20Endpoint%20Management/README.md">View the lab</a>
 
+### Azure Infrastructure & Security
+
+A hands-on Azure infrastructure lab covering role-based access control (RBAC), network security, Windows Server security configuration, and Azure Activity Log monitoring. Includes verification of effective NSG rules, secure VM administration, and resource lifecycle management.
+
+[Lab 4 – Azure Administration & Infrastructure](https://github.com/Henrik-Nordlund/IT-Infrastructure-Projects/blob/main/Lab%204%20%E2%80%93%20Azure%20Administration%20%26%20Infrastructure/README.md)
+
+
 ## Projects – Legacy
 - <a href = "https://github.com/Henrik-Nordlund/Scripting-python">Scripting Python (flera projekt)</a>
 - <a href = "https://github.com/Henrik-Nordlund/Managing-file-permissions-with-Linux">Hanterade filbehörigheter med Linux</a>
