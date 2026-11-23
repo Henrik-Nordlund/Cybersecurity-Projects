@@ -87,6 +87,12 @@ A hands-on Azure infrastructure lab covering role-based access control (RBAC), n
 
 [View the lab](https://github.com/Henrik-Nordlund/IT-Infrastructure-Projects/blob/main/Lab%204%20%E2%80%93%20Azure%20Administration%20%26%20Infrastructure/README.md)
 
+### Microsoft Entra – Conditional Access
+
+A hands-on identity security lab covering Microsoft Entra Conditional Access, MFA enforcement, legacy authentication restrictions, device compliance requirements, and location-based access controls. Includes policy evaluation using Report-only mode and What If simulations, as well as verification of access decisions through Microsoft Entra sign-in logs.
+
+[View the lab](https://github.com/Henrik-Nordlund/IT-Infrastructure-Projects/blob/main/Lab%205%20%E2%80%93%20Microsoft%20Entra%20Conditional%20Access/README.md)
+
 
 ## Projects – Legacy
 - <a href = "https://github.com/Henrik-Nordlund/Scripting-python">Scripting Python (flera projekt)</a>
